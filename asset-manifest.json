@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fm-profile-card/static/css/main.334ed2e4.chunk.css",
+    "main.js": "/fm-profile-card/static/js/main.ab9211db.chunk.js",
+    "main.js.map": "/fm-profile-card/static/js/main.ab9211db.chunk.js.map",
+    "runtime-main.js": "/fm-profile-card/static/js/runtime-main.0783a359.js",
+    "runtime-main.js.map": "/fm-profile-card/static/js/runtime-main.0783a359.js.map",
+    "static/js/2.b66bfb92.chunk.js": "/fm-profile-card/static/js/2.b66bfb92.chunk.js",
+    "static/js/2.b66bfb92.chunk.js.map": "/fm-profile-card/static/js/2.b66bfb92.chunk.js.map",
+    "index.html": "/fm-profile-card/index.html",
+    "static/css/main.334ed2e4.chunk.css.map": "/fm-profile-card/static/css/main.334ed2e4.chunk.css.map",
+    "static/js/2.b66bfb92.chunk.js.LICENSE.txt": "/fm-profile-card/static/js/2.b66bfb92.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/fm-profile-card/static/media/bg-pattern-top.dae77b1f.svg",
+    "static/media/bg-pattern-card.b61daebd.svg": "/fm-profile-card/static/media/bg-pattern-card.b61daebd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0783a359.js",
+    "static/js/2.b66bfb92.chunk.js",
+    "static/css/main.334ed2e4.chunk.css",
+    "static/js/main.ab9211db.chunk.js"
+  ]
+}
