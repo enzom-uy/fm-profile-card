@@ -1,6 +1,6 @@
 ## Frontend Mentor - Profile Card Component
 
-### LIVE PREVIEW: https://enzomdev.github.io/fm-profile-card/
+### LIVE PREVIEW: https://enzom-uy.github.io/fm-profile-card/
 
 Desktop preview:
 ![Desktop preview](https://i.imgur.com/djLV0Ak.png)
